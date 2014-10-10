@@ -1,0 +1,29 @@
+<schemalist>
+  <schema id="org.gnome.gistit" path="/org/gnome/gistit/" gettext-domain="gistit">
+    <key name="hotkey" type="s">
+      <default>
+        <![CDATA[
+                 "<Control><Shift>c"
+        ]]>
+      </default>
+      <summary>hotkey</summary>
+      <description>
+        Key combination to trigger GistIt
+      </description>
+    </key>
+    <key name="account" type="s">
+      <default>""</default>
+      <summary>Accounts</summary>
+      <description>
+        Accounts info string
+      </description>
+    </key>
+    <key name="anonymous" type="b">
+      <default>true</default>
+      <summary>Anonymous Gist</summary>
+      <description>
+        Post Gist as anonymous user
+      </description>
+    </key>
+  </schema>
+</schemalist>
