@@ -1,7 +1,7 @@
 GistIt
 ======
 
-Easily publish text as a Gist on [Github](http://gist.github.com] with a hotkey.
+Easily publish text as a Gist on [Github](https://gist.github.com/) with a hotkey.
 
 Default hotkey: **Ctrl+Shift+C**
 
